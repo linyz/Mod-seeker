@@ -1,0 +1,9 @@
+FDR = 0.05
+Odds_Ratio_Threshold = 1.5
+Number_Of_Replicates = 2
+
+File_List:
+Treated_1 = CountMod_Scer_100mM_Rep1_small.tab
+Control_1 = CountMod_Scer_0mM_Rep1_small.tab
+Treated_2 = CountMod_Scer_100mM_Rep2_small.tab
+Control_2 = CountMod_Scer_0mM_Rep2_small.tab
